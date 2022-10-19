@@ -38,6 +38,8 @@ body {
   background-position: center top;
   background-attachment:scroll;
   background-size:960px 255px;
+  max-width: 1000px;
+  min-width: 360px;
   
 }
 
