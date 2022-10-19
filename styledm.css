@@ -49,7 +49,7 @@ main {
     max-width:960px;
     background-color: rgb(255, 255, 255);
     margin:auto;
-    height:800px;
+    /*height:800px;*/
     padding-left:20px;
     padding-right:20px;
     padding-bottom:0px;
@@ -176,7 +176,7 @@ article {
   z-index: 1;
   display:flex;
 min-width:380px;
-  max-width:920px;
+  max-width:880px;
 margin:auto;
 height:50px;
 border-bottom:1px solid #0534f0;
