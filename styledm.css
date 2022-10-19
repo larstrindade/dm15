@@ -33,13 +33,12 @@
 
 
 body {
-  background-image: linear-gradient(to right, rgb(255, 115, 0), rgb(255, 221, 0), yellow,yellow,  #69b6f5,#2685d3, #16588d, rgb(2, 24, 60) );
+  background-image: linear-gradient(to right, rgb(255, 115, 0), yellow, rgb(255, 221, 0), yellow,yellow,  #69b6f5,#2685d3, #103c60, rgb(2, 24, 60) );
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment:scroll;
-  background-size:960px 255px;
-  max-width: 1000px;
-  min-width: 360px;
+  background-size:960px 170px;
+  
   
 }
 
@@ -72,7 +71,7 @@ h1   {
   display: block;
   
   font-family: 'astrodings';
-  font-size: 7em;
+  font-size: 6em;
   font-weight: 100;
   color:rgb(238, 238, 172);
   text-shadow: 0px 5px 3px rgba(31, 31, 1, 0.444);
@@ -99,7 +98,7 @@ h1   {
   padding-right: 30px;
   font-family: 'augusta';
   font-weight: 200;
-  font-size: 3.2em;
+  font-size: 2.8em;
   color:#030d57;
   text-shadow: 0px 3px 3px #00000070;
   
@@ -113,6 +112,7 @@ h3 {
   text-align: center;
   font-family: 'caviar';
   text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.527);
+  font-size: 1.0em;
 }
 
 
